@@ -1,0 +1,12 @@
+.pidi-item {
+    background: #ff6a00;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+
+.pidi-item:nth-child(odd) {
+    background: #004eff;
+}

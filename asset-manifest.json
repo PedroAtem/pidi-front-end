@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/pidi-front-end/static/css/main.1aea02f6.chunk.css",
+    "main.js": "/pidi-front-end/static/js/main.fcc3503b.chunk.js",
+    "main.js.map": "/pidi-front-end/static/js/main.fcc3503b.chunk.js.map",
+    "runtime-main.js": "/pidi-front-end/static/js/runtime-main.7607974e.js",
+    "runtime-main.js.map": "/pidi-front-end/static/js/runtime-main.7607974e.js.map",
+    "static/css/2.da6a58a2.chunk.css": "/pidi-front-end/static/css/2.da6a58a2.chunk.css",
+    "static/js/2.e341e8c8.chunk.js": "/pidi-front-end/static/js/2.e341e8c8.chunk.js",
+    "static/js/2.e341e8c8.chunk.js.map": "/pidi-front-end/static/js/2.e341e8c8.chunk.js.map",
+    "index.html": "/pidi-front-end/index.html",
+    "precache-manifest.69c28f6befe21a68ad00d492d90a81de.js": "/pidi-front-end/precache-manifest.69c28f6befe21a68ad00d492d90a81de.js",
+    "service-worker.js": "/pidi-front-end/service-worker.js",
+    "static/css/2.da6a58a2.chunk.css.map": "/pidi-front-end/static/css/2.da6a58a2.chunk.css.map",
+    "static/css/main.1aea02f6.chunk.css.map": "/pidi-front-end/static/css/main.1aea02f6.chunk.css.map",
+    "static/js/2.e341e8c8.chunk.js.LICENSE.txt": "/pidi-front-end/static/js/2.e341e8c8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7607974e.js",
+    "static/css/2.da6a58a2.chunk.css",
+    "static/js/2.e341e8c8.chunk.js",
+    "static/css/main.1aea02f6.chunk.css",
+    "static/js/main.fcc3503b.chunk.js"
+  ]
+}

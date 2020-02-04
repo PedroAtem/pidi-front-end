@@ -1,0 +1,18 @@
+.pidi-item-container {
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+}
+
+.pidi-item {
+    background: radial-gradient(#ffffff, #ffffff, rgb(144, 255, 240));
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    border-radius: 20px;
+}
